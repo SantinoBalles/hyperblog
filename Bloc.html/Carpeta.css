@@ -1,9 +1,4 @@
 body {
-<<<<<<< HEAD
-    color: deeppink;
-    text-align: center;
-    font-family: "arial";
-=======
     color: #333;
     text-align: center;
     font-family: Courier;
@@ -33,10 +28,8 @@ body {
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-    color: red;
 }
 
 #container h1 {
     font-size: 20px;
->>>>>>> cabecera
 }
